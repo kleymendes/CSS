@@ -17,11 +17,9 @@ body {
     font-family: 'Poppins';
 }
 
-.hr {
-    height: 5px;
-    background-color: black;
-    width: 50% center;
-    margin-top: 1em;
+.hr{
+    height: 1px; 
+    background-color: black; width: 30%;
 }
 
 .card-img {
@@ -42,11 +40,11 @@ body {
 }
 
 #btn-sobre {
-    border-radius: 20px;
+    border-radius: 20px; 
     padding: 5px 25px;
     background-color: black !important;
+    color: #ffffff !important;
     font-weight: 600;
-    color: #fff !important;
 }
 
 #btn-projeto {
@@ -131,9 +129,10 @@ body {
     }
 
     #footer-elementos {
-        display: flex !important;
-        justify-content: center impo !important;
+        display:flex !important; 
+        justify-content: center !important;
     }
+
 }
 
 #texto-2 {
